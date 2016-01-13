@@ -1,4 +1,2 @@
 print "Hello world"
 print "Hello everyone"
-print "Hello again"
-print "Another 'Hi' from me"
