@@ -1,12 +1,8 @@
 print 'Hello world'
-
 print 'Hello everyone'
-
 print 'Hello again'
-
 print 'Another Hi from me'
-
 print 'Hello my friend'
-
 print 'Glad to see you'
+print 'How are u?'
 print 'Another line in this file'
