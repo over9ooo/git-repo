@@ -1,2 +1,0 @@
-print "I LOL you so much"
-print "ROFL"
