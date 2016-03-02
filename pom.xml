@@ -47,7 +47,6 @@
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>6.9.10</version>
-            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>ru.yandex.qatools.allure</groupId>
@@ -55,5 +54,4 @@
             <version>2.5</version>
         </dependency>
     </dependencies>
-
 </project>
