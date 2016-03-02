@@ -2,7 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="466dc5f8-3dc1-45a0-986a-d272ecd67e8e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/testng-failed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-my.supercompany.GoogleTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/Surefire test.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/groups.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-not-run.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/reporter-output.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/testng.xml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/toc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysuperframework.iml" afterPath="$PROJECT_DIR$/mysuperframework.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="mysuperframework.iws" />
@@ -30,8 +67,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.88351256">
-              <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.27419356">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -40,8 +77,8 @@
       <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.9615384">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="30" />
+            <state vertical-scroll-proportion="-5.8846154">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/my/supercompany/GoogleTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,10 +98,14 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/my/supercompany/GooglePage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
               <folding>
                 <element signature="e#358#359#0" expanded="true" />
                 <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,13 +115,9 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/my/supercompany/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="false" />
-                <element signature="e#304#305#0" expanded="false" />
-                <element signature="e#333#334#0" expanded="false" />
-                <element signature="e#386#387#0" expanded="false" />
-                <element signature="e#415#416#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -100,7 +137,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/my/supercompany/ConciseAPI.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#361#362#0" expanded="true" />
@@ -836,7 +873,7 @@
       <workItem from="1456911390991" duration="841000" />
       <workItem from="1456915336686" duration="443000" />
       <workItem from="1456917260326" duration="1656000" />
-      <workItem from="1456933109608" duration="3361000" />
+      <workItem from="1456933109608" duration="6993000" />
     </task>
     <servers />
   </component>
@@ -873,7 +910,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36958000" />
+    <option name="totallyTimeSpent" value="40590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -883,10 +920,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.251634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22712418" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789558" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18133536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -957,6 +996,10 @@
           <folding>
             <element signature="e#358#359#0" expanded="true" />
             <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -967,10 +1010,6 @@
           <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#304#305#0" expanded="false" />
-            <element signature="e#333#334#0" expanded="false" />
-            <element signature="e#386#387#0" expanded="false" />
-            <element signature="e#415#416#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1028,6 +1067,10 @@
           <folding>
             <element signature="e#358#359#0" expanded="true" />
             <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1038,10 +1081,6 @@
           <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#304#305#0" expanded="false" />
-            <element signature="e#333#334#0" expanded="false" />
-            <element signature="e#386#387#0" expanded="false" />
-            <element signature="e#415#416#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1091,6 +1130,10 @@
           <folding>
             <element signature="e#358#359#0" expanded="true" />
             <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1101,10 +1144,6 @@
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#304#305#0" expanded="false" />
-            <element signature="e#333#334#0" expanded="false" />
-            <element signature="e#386#387#0" expanded="false" />
-            <element signature="e#415#416#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1154,6 +1193,10 @@
           <folding>
             <element signature="e#358#359#0" expanded="true" />
             <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1164,10 +1207,6 @@
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#304#305#0" expanded="false" />
-            <element signature="e#333#334#0" expanded="false" />
-            <element signature="e#386#387#0" expanded="false" />
-            <element signature="e#415#416#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1195,28 +1234,43 @@
           <folding>
             <element signature="e#358#359#0" expanded="true" />
             <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/my/supercompany/GooglePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9615384">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/my/supercompany/GoogleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/my/supercompany/ConciseAPI.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/my/supercompany/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1229,43 +1283,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/my/supercompany/BaseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/my/supercompany/ConciseAPI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#304#305#0" expanded="false" />
-            <element signature="e#333#334#0" expanded="false" />
-            <element signature="e#386#387#0" expanded="false" />
-            <element signature="e#415#416#0" expanded="false" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/my/supercompany/GooglePage.java">
+    <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/my/supercompany/GoogleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.88351256">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.27419356">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
