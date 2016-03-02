@@ -14,7 +14,7 @@ public class GoogleTest extends BaseTest {
         page.visit();
 
         page.searchMore("selenium");
-        assertThat(textToBePresentInElement(page.firstResult, "Selenium is a suite of tools to automate web browsers"));
+        assertThat(textToBePresentInElement(page.firstResult, "Site of web browser automation tool"));
 
         page.searchMore(" chemical element");
         assertThat(textToBePresentInElement(page.firstResult, "Selenium is a chemical element"));
