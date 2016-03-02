@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="18347" started-at="2016-03-02T17:23:54Z" finished-at="2016-03-02T17:24:13Z">
+  <suite name="GooglePageTestSuite" duration-ms="8325" started-at="2016-03-02T20:37:41Z" finished-at="2016-03-02T20:37:50Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="18347" started-at="2016-03-02T17:23:54Z" finished-at="2016-03-02T17:24:13Z">
+    <test name="GooglePageTest" duration-ms="8325" started-at="2016-03-02T20:37:41Z" finished-at="2016-03-02T20:37:50Z">
       <class name="my.supercompany.GoogleTest">
-        <test-method status="PASS" signature="testSearchText()[pri:0, instance:my.supercompany.GoogleTest@6ea810]" name="testSearchText" duration-ms="15362" started-at="2016-03-02T19:23:55Z" finished-at="2016-03-02T19:24:10Z">
+        <test-method status="PASS" signature="testSearchText()[pri:0, instance:my.supercompany.GoogleTest@1891008]" name="testSearchText" duration-ms="6887" started-at="2016-03-02T22:37:41Z" finished-at="2016-03-02T22:37:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSearchText -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:my.supercompany.GoogleTest@6ea810]" name="tearDown" is-config="true" duration-ms="2863" started-at="2016-03-02T19:24:10Z" finished-at="2016-03-02T19:24:13Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:my.supercompany.GoogleTest@1891008]" name="tearDown" is-config="true" duration-ms="1413" started-at="2016-03-02T22:37:48Z" finished-at="2016-03-02T22:37:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- my.supercompany.GoogleTest -->
-    </test> <!-- Surefire test -->
-  </suite> <!-- Surefire suite -->
+    </test> <!-- GooglePageTest -->
+  </suite> <!-- GooglePageTestSuite -->
 </testng-results>

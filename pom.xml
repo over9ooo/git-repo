@@ -31,7 +31,7 @@
                 <artifactId>allure-maven-plugin</artifactId>
                 <version>2.5</version>
                 <configuration>
-                    <reportDirectory>allure-reports</reportDirectory>
+                    <reportDirectory>c:\Users\SCV\.jenkins\jobs\mysuperframework-suite\workspace\allure-reports\</reportDirectory>
                 </configuration>
             </plugin>
         </plugins>
