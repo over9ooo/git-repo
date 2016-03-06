@@ -32,6 +32,7 @@ public class ClearCompletedTasksTest extends ConciseAPI{
 
         completeAllTasks();
         clearCompletedTasks();
+        wait(500);
 
     }
 

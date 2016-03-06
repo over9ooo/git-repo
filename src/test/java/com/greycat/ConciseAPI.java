@@ -6,6 +6,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 
+import java.util.concurrent.TimeUnit;
+
 import static com.codeborne.selenide.Condition.present;
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.$;
@@ -115,6 +117,10 @@ public class ConciseAPI {
 
     public void selectAllText(WebElement textField) {
         textField.sendKeys(Keys.chord(Keys.CONTROL, "a"));
+    }
+
+    public void wait(int miliseconds) {
+        getWebDriver().manage().timeouts().implicitlyWait(miliseconds, TimeUnit.MILLISECONDS);
     }
 
 }

@@ -14,7 +14,7 @@ public class AddTaskTest extends ConciseAPI {
         addNewTodo("new todo");
         addNewTodo("do something");
 
-        assertThatNthElementHasText(lastTaskOnList, "do something");
+        assertThatNthElementHasText("2", "do something");
         assertAllTasksStatus("active");
         assertThatListHasNElements(2);
 
@@ -24,6 +24,7 @@ public class AddTaskTest extends ConciseAPI {
     public void cleanUp() {
         completeAllTasks();
         clearCompletedTasks();
+        wait(500);
     }
 
 }

@@ -34,6 +34,7 @@ public class CompleteAllTasksTest extends ConciseAPI {
     @AfterTest
     public void cleanUp() {
         clearCompletedTasks();
+        wait(500);
     }
 
 

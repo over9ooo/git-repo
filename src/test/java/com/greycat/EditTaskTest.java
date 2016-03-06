@@ -33,6 +33,7 @@ public class EditTaskTest extends ConciseAPI {
     public void cleanUp() {
         completeAllTasks();
         clearCompletedTasks();
+        wait(500);
     }
 
 }
