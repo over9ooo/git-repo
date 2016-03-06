@@ -65,9 +65,6 @@
                 <groupId>ru.yandex.qatools.allure</groupId>
                 <artifactId>allure-maven-plugin</artifactId>
                 <version>2.2</version>
-                <configuration>
-                    <resultsDirectory>d:\selenium\Jenkins_1.642.2\jobs\todomvc-tests_maven-proj\workspace\target\allure-report\</resultsDirectory>
-                </configuration>
             </plugin>
         </plugins>
     </reporting>
