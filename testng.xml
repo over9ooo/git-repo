@@ -4,7 +4,9 @@
     <test name="ToDoMVCTest" >
         <classes>
             <class name="com.greycat.AddTaskTest" />
+            <class name="com.greycat.EditTaskTest" />
             <class name="com.greycat.CompleteTaskTest" />
+            <class name="com.greycat.CompleteAllTasksTest" />
             <class name="com.greycat.ClearCompletedTasksTest" />
             <class name="com.greycat.DeleteTaskTest" />
         </classes>
