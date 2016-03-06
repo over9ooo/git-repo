@@ -44,14 +44,14 @@
                     </suiteXmlFiles>
                     <testFailureIgnore>true</testFailureIgnore>
                     <argLine>
-                        -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
+                        -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/1.7.3/aspectjweaver-1.7.3.jar"
                     </argLine>
                 </configuration>
                     <dependencies>
                         <dependency>
                             <groupId>org.aspectj</groupId>
                             <artifactId>aspectjweaver</artifactId>
-                            <version>${aspectj.version}</version>
+                            <version>1.7.3</version>
                         </dependency>
                     </dependencies>
             </plugin>
