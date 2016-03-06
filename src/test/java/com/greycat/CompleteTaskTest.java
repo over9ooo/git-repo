@@ -1,6 +1,6 @@
 package com.greycat;
 
-import org.testng.annotations.AfterTest;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -30,7 +30,7 @@ public class CompleteTaskTest extends ConciseAPI{
 
     }
 
-    @AfterTest
+    @AfterClass
     public void cleanUp() {
         completeAllTasks();
         clearCompletedTasks();

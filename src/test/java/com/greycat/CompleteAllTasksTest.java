@@ -2,7 +2,7 @@ package com.greycat;
 
 import com.codeborne.selenide.Condition;
 import org.openqa.selenium.By;
-import org.testng.annotations.AfterTest;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -31,7 +31,7 @@ public class CompleteAllTasksTest extends ConciseAPI {
 
     }
 
-    @AfterTest
+    @AfterClass
     public void cleanUp() {
         clearCompletedTasks();
         wait(500);

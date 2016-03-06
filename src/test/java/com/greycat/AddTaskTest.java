@@ -1,6 +1,6 @@
 package com.greycat;
 
-import org.testng.annotations.AfterTest;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.Test;
 
 import static com.codeborne.selenide.Selenide.open;
@@ -20,7 +20,7 @@ public class AddTaskTest extends ConciseAPI {
 
     }
 
-    @AfterTest
+    @AfterClass
     public void cleanUp() {
         completeAllTasks();
         clearCompletedTasks();

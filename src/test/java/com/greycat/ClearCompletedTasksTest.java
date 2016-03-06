@@ -1,6 +1,6 @@
 package com.greycat;
 
-import org.testng.annotations.AfterTest;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.Test;
 
 import static com.codeborne.selenide.Selenide.open;
@@ -25,7 +25,7 @@ public class ClearCompletedTasksTest extends ConciseAPI{
 
     }
 
-    @AfterTest
+    @AfterClass
     public void checkActiveTasksCounter() {
 
         checkActiveTasksCounterValue("2");
