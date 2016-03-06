@@ -27,7 +27,7 @@ public class CompleteAllTasksTest extends ConciseAPI {
         assertAllTasksStatus("completed");
 
         showActiveTasks();
-        $(By.xpath(firstTaskOnList)).shouldNotBe(Condition.present);
+        $(By.xpath(firstTaskOnList)).shouldNotBe(Condition.visible);
 
     }
 
