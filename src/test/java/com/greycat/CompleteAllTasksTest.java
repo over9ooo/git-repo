@@ -1,6 +1,8 @@
 package com.greycat;
 
 import com.codeborne.selenide.Condition;
+import org.openqa.selenium.By;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -25,10 +27,13 @@ public class CompleteAllTasksTest extends ConciseAPI {
         assertAllTasksStatus("completed");
 
         showActiveTasks();
-        $(".//li[1]/div[@class='view']/label").shouldNotBe(Condition.present);
+        $(By.xpath(firstTaskOnList)).shouldNotBe(Condition.present);
 
+    }
 
-
+    @AfterTest
+    public void cleanUp() {
+        clearCompletedTasks();
     }
 
 

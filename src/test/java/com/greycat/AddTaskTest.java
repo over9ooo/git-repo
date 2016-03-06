@@ -1,5 +1,6 @@
 package com.greycat;
 
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
 import static com.codeborne.selenide.Selenide.open;
@@ -17,6 +18,12 @@ public class AddTaskTest extends ConciseAPI {
         assertAllTasksStatus("active");
         assertThatListHasNElements(2);
 
+    }
+
+    @AfterTest
+    public void cleanUp() {
+        completeAllTasks();
+        clearCompletedTasks();
     }
 
 }

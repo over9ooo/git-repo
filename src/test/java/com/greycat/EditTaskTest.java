@@ -1,5 +1,6 @@
 package com.greycat;
 
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -26,6 +27,12 @@ public class EditTaskTest extends ConciseAPI {
         assertThatNthElementHasText("1", "completed task edited");
         assertThatNthElementHasText("2", "active task edited");
 
+    }
+
+    @AfterTest
+    public void cleanUp() {
+        completeAllTasks();
+        clearCompletedTasks();
     }
 
 }

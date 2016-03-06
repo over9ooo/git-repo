@@ -20,6 +20,8 @@ public class ConciseAPI {
 
     String amountOfActiveTasks = ".//footer/span/strong";
 
+    String firstTaskOnList = ".//li[1]/div[@class='view']/label";
+
     int totalAmountOfTasks = $$(".view label").size();
 
     //-----------------------------------ACTIONS-----------------------------------

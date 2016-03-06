@@ -27,7 +27,12 @@ public class ClearCompletedTasksTest extends ConciseAPI{
 
     @AfterTest
     public void checkActiveTasksCounter() {
+
         checkActiveTasksCounterValue("2");
+
+        completeAllTasks();
+        clearCompletedTasks();
+
     }
 
 }
