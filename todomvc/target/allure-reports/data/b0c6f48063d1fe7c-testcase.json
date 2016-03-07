@@ -1,0 +1,41 @@
+{
+  "uid" : "b0c6f48063d1fe7c",
+  "name" : "completeTask",
+  "title" : "Complete task",
+  "time" : {
+    "start" : 1457290275919,
+    "stop" : 1457290277024,
+    "duration" : 1105
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "2e0c71c2fd68147e",
+    "name" : "todomvc-suite",
+    "title" : "todomvc-suite : ToDoMVCTest"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-name",
+    "value" : "todomvc-suite"
+  }, {
+    "name" : "suite-title",
+    "value" : "todomvc-suite : ToDoMVCTest"
+  } ],
+  "parameters" : [ ]
+}

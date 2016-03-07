@@ -1,0 +1,41 @@
+{
+  "uid" : "db96c4b51789c4db",
+  "name" : "editSomeTasks",
+  "title" : "Edit some tasks",
+  "time" : {
+    "start" : 1457289883709,
+    "stop" : 1457289885630,
+    "duration" : 1921
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "2e0c71c2fd68147e",
+    "name" : "todomvc-suite",
+    "title" : "todomvc-suite : ToDoMVCTest"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-name",
+    "value" : "todomvc-suite"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "todomvc-suite : ToDoMVCTest"
+  } ],
+  "parameters" : [ ]
+}

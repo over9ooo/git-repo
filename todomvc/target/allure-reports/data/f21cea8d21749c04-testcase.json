@@ -1,0 +1,41 @@
+{
+  "uid" : "f21cea8d21749c04",
+  "name" : "deleteTask",
+  "title" : "Delete task",
+  "time" : {
+    "start" : 1457290280996,
+    "stop" : 1457290282561,
+    "duration" : 1565
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "2e0c71c2fd68147e",
+    "name" : "todomvc-suite",
+    "title" : "todomvc-suite : ToDoMVCTest"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : "todomvc-suite : ToDoMVCTest"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-name",
+    "value" : "todomvc-suite"
+  } ],
+  "parameters" : [ ]
+}

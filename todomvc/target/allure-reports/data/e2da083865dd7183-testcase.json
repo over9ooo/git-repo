@@ -1,0 +1,41 @@
+{
+  "uid" : "e2da083865dd7183",
+  "name" : "createTask",
+  "title" : "Create task",
+  "time" : {
+    "start" : 1457289739998,
+    "stop" : 1457289745787,
+    "duration" : 5789
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "2e0c71c2fd68147e",
+    "name" : "todomvc-suite",
+    "title" : "todomvc-suite : ToDoMVCTest"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "todomvc-suite"
+  }, {
+    "name" : "suite-title",
+    "value" : "todomvc-suite : ToDoMVCTest"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  } ],
+  "parameters" : [ ]
+}

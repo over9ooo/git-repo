@@ -1,0 +1,41 @@
+{
+  "uid" : "f00336c40d40eaff",
+  "name" : "completeAllTasksMethod",
+  "title" : "Complete all tasks method",
+  "time" : {
+    "start" : 1457290616066,
+    "stop" : 1457290617024,
+    "duration" : 958
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "2e0c71c2fd68147e",
+    "name" : "todomvc-suite",
+    "title" : "todomvc-suite : ToDoMVCTest"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-title",
+    "value" : "todomvc-suite : ToDoMVCTest"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "todomvc-suite"
+  } ],
+  "parameters" : [ ]
+}

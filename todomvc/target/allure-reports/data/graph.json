@@ -1,0 +1,267 @@
+{
+  "testCases" : [ {
+    "uid" : "5cdefd17bd7161cd",
+    "name" : "createTask",
+    "title" : "Create task",
+    "time" : {
+      "start" : 1457290263603,
+      "stop" : 1457290268318,
+      "duration" : 4715
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "48e2d08f4fa09688",
+    "name" : "editSomeTasks",
+    "title" : "Edit some tasks",
+    "time" : {
+      "start" : 1457290269304,
+      "stop" : 1457290270892,
+      "duration" : 1588
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b0c6f48063d1fe7c",
+    "name" : "completeTask",
+    "title" : "Complete task",
+    "time" : {
+      "start" : 1457290275919,
+      "stop" : 1457290277024,
+      "duration" : 1105
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "dd046590dcc969e8",
+    "name" : "completeAllTasksMethod",
+    "title" : "Complete all tasks method",
+    "time" : {
+      "start" : 1457290277788,
+      "stop" : 1457290278772,
+      "duration" : 984
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4cee12a1c3d591f5",
+    "name" : "deleteCompletedTasks",
+    "title" : "Delete completed tasks",
+    "time" : {
+      "start" : 1457290278887,
+      "stop" : 1457290280739,
+      "duration" : 1852
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f21cea8d21749c04",
+    "name" : "deleteTask",
+    "title" : "Delete task",
+    "time" : {
+      "start" : 1457290280996,
+      "stop" : 1457290282561,
+      "duration" : 1565
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e34c6519e814d3ab",
+    "name" : "createTask",
+    "title" : "Create task",
+    "time" : {
+      "start" : 1457289876660,
+      "stop" : 1457289882602,
+      "duration" : 5942
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "db96c4b51789c4db",
+    "name" : "editSomeTasks",
+    "title" : "Edit some tasks",
+    "time" : {
+      "start" : 1457289883709,
+      "stop" : 1457289885630,
+      "duration" : 1921
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e247856eb391d2e0",
+    "name" : "completeTask",
+    "title" : "Complete task",
+    "time" : {
+      "start" : 1457289886940,
+      "stop" : 1457289888026,
+      "duration" : 1086
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "46eaeca0d3984915",
+    "name" : "completeAllTasksMethod",
+    "title" : "Complete all tasks method",
+    "time" : {
+      "start" : 1457289888893,
+      "stop" : 1457289889925,
+      "duration" : 1032
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e857842d430a7cb3",
+    "name" : "deleteCompletedTasks",
+    "title" : "Delete completed tasks",
+    "time" : {
+      "start" : 1457289890129,
+      "stop" : 1457289892175,
+      "duration" : 2046
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "7a8949bd7835d93b",
+    "name" : "deleteTask",
+    "title" : "Delete task",
+    "time" : {
+      "start" : 1457289892454,
+      "stop" : 1457289894049,
+      "duration" : 1595
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f61150e00c0bb314",
+    "name" : "createTask",
+    "title" : "Create task",
+    "time" : {
+      "start" : 1457290604429,
+      "stop" : 1457290610807,
+      "duration" : 6378
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "7db655f87e71a46f",
+    "name" : "editSomeTasks",
+    "title" : "Edit some tasks",
+    "time" : {
+      "start" : 1457290611838,
+      "stop" : 1457290613381,
+      "duration" : 1543
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "abdd88b5dd168d6d",
+    "name" : "completeTask",
+    "title" : "Complete task",
+    "time" : {
+      "start" : 1457290614273,
+      "stop" : 1457290615249,
+      "duration" : 976
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f00336c40d40eaff",
+    "name" : "completeAllTasksMethod",
+    "title" : "Complete all tasks method",
+    "time" : {
+      "start" : 1457290616066,
+      "stop" : 1457290617024,
+      "duration" : 958
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6e3265f938e0aae3",
+    "name" : "deleteCompletedTasks",
+    "title" : "Delete completed tasks",
+    "time" : {
+      "start" : 1457290617140,
+      "stop" : 1457290619275,
+      "duration" : 2135
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "34502f6865493bed",
+    "name" : "deleteTask",
+    "title" : "Delete task",
+    "time" : {
+      "start" : 1457290619512,
+      "stop" : 1457290621114,
+      "duration" : 1602
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e2da083865dd7183",
+    "name" : "createTask",
+    "title" : "Create task",
+    "time" : {
+      "start" : 1457289739998,
+      "stop" : 1457289745787,
+      "duration" : 5789
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6bb2b408e0346083",
+    "name" : "editSomeTasks",
+    "title" : "Edit some tasks",
+    "time" : {
+      "start" : 1457289747336,
+      "stop" : 1457289748929,
+      "duration" : 1593
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "aafee833b9ec5dd8",
+    "name" : "completeTask",
+    "title" : "Complete task",
+    "time" : {
+      "start" : 1457289749776,
+      "stop" : 1457289750835,
+      "duration" : 1059
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6ecaf91837db5cf0",
+    "name" : "completeAllTasksMethod",
+    "title" : "Complete all tasks method",
+    "time" : {
+      "start" : 1457289751671,
+      "stop" : 1457289752989,
+      "duration" : 1318
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a4f2d099d2a34a04",
+    "name" : "deleteCompletedTasks",
+    "title" : "Delete completed tasks",
+    "time" : {
+      "start" : 1457289753118,
+      "stop" : 1457289755089,
+      "duration" : 1971
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "7bca487903f6ac24",
+    "name" : "deleteTask",
+    "title" : "Delete task",
+    "time" : {
+      "start" : 1457289755339,
+      "stop" : 1457289756902,
+      "duration" : 1563
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}
